@@ -106,8 +106,5 @@ df.to_csv('youtube_comment.csv', index=False)
 df.head()
 
 
-# In[ ]:
-
-
 
 
